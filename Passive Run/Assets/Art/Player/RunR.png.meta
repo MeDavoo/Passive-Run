@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 36cbac97cdf959f45a33c8984047295b
+guid: b3285c22bbad7fe46b97cd5682bba47e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,13 +117,139 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Idle_0
+      name: RunRL_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
+        y: 8
+        width: 344
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96633b7e09d8298499307a309f4ce8fa
+      internalID: 983052865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 14
+        width: 324
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92238b85841b96845931df4dc868e651
+      internalID: 818584496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 18
+        width: 276
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54481f159cb42314fba7fe4f5d0660ae
+      internalID: 228756222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_3
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 16
+        width: 232
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed252882284fc8459ecb6480c078ed5
+      internalID: -1798537411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_4
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 22
+        width: 266
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d601a0eebf7845ae66a1048a035d8
+      internalID: 1036438140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_5
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 8
+        width: 324
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665bce043d369f4c803c8ba766931d9
+      internalID: 573074206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_6
+      rect:
+        serializedVersion: 2
+        x: 2139
         y: 5
-        width: 223
-        height: 524
+        width: 362
+        height: 508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48d2a30f145dbb54a88e2d227ea2dd5e
-      internalID: 1666932568
+      spriteID: b8b7603223793eb4c8a3fde57ba8ae92
+      internalID: -2021374554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Idle_1
+      name: RunRL_7
       rect:
         serializedVersion: 2
-        x: 223
-        y: 3
-        width: 223
-        height: 526
+        x: 2497
+        y: 5
+        width: 330
+        height: 508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ca3e7c039ae1974281624b4e753f89b
-      internalID: 1246701776
+      spriteID: 98cf9e92240d6e94ca784125d066d638
+      internalID: -628988362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Idle_3
+      name: RunRL_8
       rect:
         serializedVersion: 2
-        x: 446
-        y: 2
-        width: 223
-        height: 527
+        x: 2892
+        y: 18
+        width: 276
+        height: 506
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee924c73c14538d4eb967b64e4b6757f
-      internalID: -492239294
+      spriteID: 30f1779deb29e954182351e6d32c0672
+      internalID: 1092024393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Idle_7
+      name: RunRL_9
       rect:
         serializedVersion: 2
-        x: 893
-        y: 0
-        width: 231
-        height: 529
+        x: 3281
+        y: 16
+        width: 232
+        height: 508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 193ce0d31545567429a35dcae5318b47
-      internalID: 1514941800
+      spriteID: 1e043729f8d66e9449739bf43945baef
+      internalID: 353592581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Idle_2
+      name: RunRL_10
       rect:
         serializedVersion: 2
-        x: 669
-        y: 0
-        width: 224
-        height: 529
+        x: 3628
+        y: 22
+        width: 255
+        height: 493
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +341,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b612dd4a57996546ac522f79537a783
-      internalID: -88916653
+      spriteID: 0de78408fe3106d41aeccb8afef5728e
+      internalID: 1594488773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRL_11
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 7
+        width: 356
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b08b8eac8efb42a16264d6489369b
+      internalID: -1341681557
       vertices: []
       indices: 
       edges: []
@@ -232,15 +379,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Idle_1: 1246701776
-      Player_Idle_0: 1666932568
-      Player_Idle_6: 21903914
-      Player_Idle_3: -492239294
-      Player_Idle_5: -1437426348
-      Player_Idle_7: 1514941800
-      Player_Idle_4: 2109774554
-      Player_Idle_2: -88916653
-      Player_Idle_8: 1215986138
+      RunRL_4: 1036438140
+      RunRL_2: 228756222
+      RunRL_11: -1341681557
+      RunRL_5: 573074206
+      RunRL_9: 353592581
+      RunRL_1: 818584496
+      RunRL_6: -2021374554
+      RunRL_7: -628988362
+      RunRL_10: 1594488773
+      RunRL_3: -1798537411
+      RunRL_8: 1092024393
+      RunRL_0: 983052865
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
